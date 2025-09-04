@@ -1,0 +1,17 @@
+C:\Precize\src\main\java\com\example\orderprocessing\App.java
+C:\Precize\src\main\java\com\example\orderprocessing\controller\OrderController.java
+C:\Precize\src\main\java\com\example\orderprocessing\event\Event.java
+C:\Precize\src\main\java\com\example\orderprocessing\event\EventType.java
+C:\Precize\src\main\java\com\example\orderprocessing\event\OrderCancelledEvent.java
+C:\Precize\src\main\java\com\example\orderprocessing\event\OrderCreatedEvent.java
+C:\Precize\src\main\java\com\example\orderprocessing\event\PaymentReceivedEvent.java
+C:\Precize\src\main\java\com\example\orderprocessing\event\ShippingScheduledEvent.java
+C:\Precize\src\main\java\com\example\orderprocessing\ingest\EventReader.java
+C:\Precize\src\main\java\com\example\orderprocessing\model\Item.java
+C:\Precize\src\main\java\com\example\orderprocessing\model\Order.java
+C:\Precize\src\main\java\com\example\orderprocessing\model\OrderStatus.java
+C:\Precize\src\main\java\com\example\orderprocessing\observer\AlertObserver.java
+C:\Precize\src\main\java\com\example\orderprocessing\observer\EventPublisher.java
+C:\Precize\src\main\java\com\example\orderprocessing\observer\LoggerObserver.java
+C:\Precize\src\main\java\com\example\orderprocessing\observer\Observer.java
+C:\Precize\src\main\java\com\example\orderprocessing\processor\EventProcessor.java
